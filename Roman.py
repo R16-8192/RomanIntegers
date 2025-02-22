@@ -1,3 +1,10 @@
+
+# The problem with the code is that it doesnt subtract values if for example :
+# IIVM = 995
+# II come next to each other and are therefore equal, and are less then the next bigger number
+# not subtracting them from V
+# So, IIV equals : 5 - 2 = 3 ===> III, thats a duplicate that is invalid in Roman Numerals
+
 def roman_to_integer(rnum):
     roman_values = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
     total = 0
