@@ -6,4 +6,4 @@ That was my solution for Roman Integers.
 All of my leetcode problems were from this website 
 https://leetcode.com/problemset/
 
-At that time, there was no such thing such as AI to help you with these problems or to give you exercises to fit your knowledge
+At that time, there was no such thing such as AI to help you with these problems or to give you exercises that fits your knowledge
